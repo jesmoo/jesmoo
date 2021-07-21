@@ -1,44 +1,39 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jesmoo</h1>
+<h3 align="center">A passionate frontend developer from Mexico</h3>
 
-Scout and programmer. Technology lover, independent and self-taught, big brother, student, frontend. I study at the university called "Tecmilenio", while taking courses on different platforms which are Google, Udemy and the current Platzi.
+- 🔭 I’m currently working in [my personal projects](https://www.jesmoo.xyz/)
 
-- 🔭 I’m currently studying
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Google
-- 🤔 I’m looking for help with React
-- 💬 Ask me about HTML and CSS
-- 📫 How to reach me: [Twitter](https://twitter.com/Jesmoo),
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: All my life I have been scout
+- 🌱 I’m currently learning **React, UX/UI, TS**
 
-## languages and technologies
+- 👯 I’m looking to collaborate with **react projects**
 
-![Html-5](./icons/html-5.png)
-![Css-3](./icons/css-3.png)
-![JavaScript](./icons/javascript.png)
-![Git](./icons/git.png)
-![NPM](./icons/npm.png)
-![Webpack](./icons/webpack.png)
+- 🤝 I’m looking for help with **react**
 
-## Currently working with:
+- 👨‍💻 All of my projects are available at [https://www.jesmoo.xyz/](https://www.jesmoo.xyz/)
 
-![Html-5](./icons/html-5.png)
-![Css-3](./icons/css-3.png)
-![JavaScript](./icons/javascript.png)
-![Git](./icons/git.png)
-![VisualStudioCode](./icons/vscode.png)
-![NPM](./icons/npm.png)
-![WSL](./icons/linux.png)
-![Webpack](./icons/webpack.png)
+- 💬 Ask me about **Html, Css, JavaScript**
 
-## learning
+- 📫 How to reach me **habidmoo@gmail.com**
 
-![React](./icons/react.png)
-![TypeScript](./icons/typescript.png)
-![UI/Ux](./icons/UX-UI.png)
+- 📄 Know about my experiences [https://bit.ly/JesusMooCV](https://bit.ly/JesusMooCV)
 
-## Social media
+- ⚡ Fun fact **all my life I have been scout**
 
-[![Twitter](./icons/twitter.png)](https://twitter.com/Jesmoo)
-[![Linkedin](./icons/linkedin.png)](https://www.linkedin.com/in/jesmoo/)
-[![Instagram](./icons/instagram.png)](https://www.instagram.com/_jesmoo/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/jesmoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jesmoo" height="30" width="40" /></a>
+<a href="https://twitter.com/jesmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jesmoo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jesmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesmoo" height="30" width="40" /></a>
+<a href="https://instagram.com/_jesmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jesmoo" height="30" width="40" /></a>
+<a href="https://dribbble.com/jesmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jesmoo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jesmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jesmoo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/jesmoo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jesmoo" /></a></p>
+<br></br><br></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesmoo&show_icons=true&locale=en&layout=compact" alt="jesmoo" /></p>
+
