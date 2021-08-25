@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [my personal projects](https://www.jesmoo.xyz/)
 
-- 🌱 I’m currently learning **React, UX/UI, TS**
+- 🌱 I’m currently learning **NODE, UX/UI, TS**
 
 - 👯 I’m looking to collaborate with **react projects**
 
@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/jesmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesmoo" height="30" width="40" /></a>
 <a href="https://instagram.com/_jesmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jesmoo" height="30" width="40" /></a>
 <a href="https://dribbble.com/jesmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jesmoo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jesmoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jesmoo" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
