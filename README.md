@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jesmoo</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working in [my personal projects](https://www.jesmoo.xyz/)
+- 🔭 I’m currently working in [100Ladrillos](https://100ladrillos.com/)
 
 - 🌱 I’m currently learning **NODE, UX/UI, TS**
 
 - 👯 I’m looking to collaborate with **react projects**
 
-- 🤝 I’m looking for help with **react**
+- 🤝 I’m looking for help with **node**
 
 - 👨‍💻 All of my projects are available at [https://www.jesmoo.xyz/](https://www.jesmoo.xyz/)
 
-- 💬 Ask me about **Html, Css, JavaScript**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **habidmoo@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/JesusMooCV](https://bit.ly/JesusMooCV)
 
 - ⚡ Fun fact **all my life I have been scout**
 
